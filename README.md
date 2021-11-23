@@ -8,6 +8,9 @@
    Client Louise, after fundraising her own play, wanted to see how other plays fared in their own kickstarters. This repository uses the data provided to visualize the clients needs and gain insight of her own projects.
 
 ## Analysis and Challenges
+First Pivot Table showing successful, failed, and canceled.
+![image](https://user-images.githubusercontent.com/85656361/143129337-078ed7c5-1fad-4717-8286-247731f0807d.png)
+
 
 ### Analysis of Outcomes Based on Launch Date
    As the chart below shows, there is a natural rise and fall throughout the calendar year, seeing the most productions in the late spring to early summer. There are small increases in theatrical productions in the months of February and October. October also has a spike in failed kickstarters. By far, the most successful month is May.
